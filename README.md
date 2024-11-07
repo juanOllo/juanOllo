@@ -13,7 +13,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - 🌱 I’m currently learning ...
   - JavaScript
 - 💬 Ask me about anything, I am happy to help
-- 😄 More about me <a href="https://juanollo.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+- 😄 More about me: <a href="https://juanollo.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
 
 
@@ -25,8 +25,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-
 </span>
 
 
@@ -34,11 +32,14 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-
-
 </span>
 
-
+<h2>Github stats:</h2> 
+<span align="center">
+  
+[![](https://github-readme-stats.vercel.app/api?username=juanollo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/juanollo)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=juanollo&theme=material-palenight)](https://github.com/juanollo)
+</span>
 
 <!-- 
 <h2>Github stats:</h2> 
