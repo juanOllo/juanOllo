@@ -38,9 +38,13 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <h2>Github stats:</h2> 
 <span align="center">
   
-<!-- [![](https://github-readme-stats.vercel.app/api?username=juanollo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/juanollo) -->
+<!-- [![](https://github-readme-stats.vercel.app/api?username=juanollo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/juanollo) 
 [![](https://github-readme-stats.vercel.app/api?username=juanollo&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/juanollo)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=juanollo&theme=tokyonight&hide_border=true)](https://github.com/juanollo)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=juanollo&theme=tokyonight&hide_border=true)](https://github.com/juanollo) -->
+<div style="margin: 0 auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanollo&theme=tokyonight&hide_border=true" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanollo&show_icons=true&theme=tokyonight&hide_border=true" style="width: 45%;">
+</div>
 </span>
 
 <!-- 
