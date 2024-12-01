@@ -15,8 +15,10 @@ I am a computer engineering student, currently halfway through my degree. I am e
   - JavaScript
   - Node.js
 - 💬 Ask me about anything, I am happy to help
+- 😄 More about me: <a href="https://juanollo.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23D9CCC1.svg?style=for-the-badge"></a>
+<!-- 
 - 😄 More about me: <a href="https://juanollo.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23D9CCC1.svg?style=for-the-badge&logo=firefox&logoColor=darkblue"></a>
-
+-->
 
 
 ## My Skills Include
