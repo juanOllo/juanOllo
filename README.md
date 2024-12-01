@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Juan Ollo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Juan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 -->
@@ -10,9 +10,10 @@
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
 -->
 
-- 🔭 I’m currently working on my own projects for practice.
+- 🔭 I’m currently working on my own projects but looking for some group projects
 - 🌱 I’m currently learning ...
   - JavaScript
+  - Node.js
 - 💬 Ask me about anything, I am happy to help
 - 😄 More about me: <a href="https://juanollo.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
@@ -33,6 +34,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 </span>
 
 <h2>Github stats:</h2> 
