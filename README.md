@@ -15,7 +15,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   - JavaScript
   - Node.js
 - 💬 Ask me about anything, I am happy to help
-- 😄 More about me: <a href="https://juanollo.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+- 😄 More about me: <a href="https://juanollo.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23D9CCC1.svg?style=for-the-badge&logo=firefox&logoColor=darkblue"></a>
 
 
 
@@ -25,15 +25,15 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <span> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
 
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
 </span>
 
