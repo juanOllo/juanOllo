@@ -16,8 +16,8 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 - 🔭 I'm currently focused on personal projects, but I'm open to collaborating on group initiatives.
 - 🌱 I’m currently learning ...
-  - JavaScript
   - React
+  - Node.js
 - 💬 Ask me about anything, I am happy to help
 <!-- 
 - 😄 More about me: <a href="https://juanollo.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23D9CCC1.svg?style=for-the-badge"></a>
