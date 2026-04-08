@@ -61,6 +61,12 @@ I am a computer engineering student, currently halfway through my degree. I am e
 </div>
 </span>
 
+<!--
+## Some mini-projects:
+
+Music player with an iPod look, created with React: <a href="https://juanollo.github.io/iHate/">link.</a>
+-->
+
 <!-- 
 <h2>Github stats:</h2> 
 [![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
